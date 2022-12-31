@@ -24,6 +24,6 @@ while True:
     plt.show()
 
     # Ask user if they want to generate another walk
-    keep_running = input("Make another walk? (y/n)")
+    keep_running = input("Make another walk? (y/n) ")
     if keep_running.lower() == 'n':
         break
