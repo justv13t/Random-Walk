@@ -6,7 +6,7 @@
 
 ### Dependencies
 
-* Need Python, and matplotlib library
+* Python, and matplotlib library
 
 ### Installing
 
